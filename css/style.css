@@ -21,7 +21,7 @@ body {
 h1{
   font-family: Baskerville,Sans-Serif;
 }
-div div{
+div div.boxer{
   border:3px solid blue;
   width:100%;
   margin: auto;
