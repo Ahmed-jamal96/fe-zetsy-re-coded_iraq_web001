@@ -18,10 +18,12 @@ body {
 }
 
 .boxer{
-  border: 1px solid 
-  outline-width: 3px:
-  outline-color: #000;
-  outline-style: solid;
+
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
   
   
 }
